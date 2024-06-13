@@ -777,6 +777,7 @@
   color: var(--main-color);
   cursor: pointer;
   transition: all 0.2s ease;
+  padding:10px;
 }
 .section-nine .container i:hover {
   color: white;
